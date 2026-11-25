@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Dolopar 650",
+    "salt": "Paracetamol 650mg",
+    "cat": "Tablets",
+    "pack": "Strip of 15",
+    "prices": {
+      "CityChemist": 28,
+      "MedGo": 34,
+      "WellCare Pharmacy": 39,
+      "QuickDose": 31
+    }
+  },
+  {
+    "name": "Azigo 500",
+    "salt": "Azithromycin 500mg",
+    "cat": "Tablets",
+    "pack": "Strip of 3",
+    "prices": {
+      "CityChemist": 112,
+      "MedGo": 118,
+      "WellCare Pharmacy": 99,
+      "QuickDose": 121
+    }
+  },
+  {
+    "name": "Pantogen 40",
+    "salt": "Pantoprazole 40mg",
+    "cat": "Tablets",
+    "pack": "Strip of 15",
+    "prices": {
+      "CityChemist": 145,
+      "MedGo": 139,
+      "WellCare Pharmacy": 152,
+      "QuickDose": 141
+    }
+  },
+  {
+    "name": "Metfor 500",
+    "salt": "Metformin 500mg",
+    "cat": "Tablets",
+    "pack": "Strip of 20",
+    "prices": {
+      "CityChemist": 65,
+      "MedGo": 59,
+      "WellCare Pharmacy": 71,
+      "QuickDose": 63
+    }
+  },
+  {
+    "name": "Amoxin 500",
+    "salt": "Amoxicillin 500mg",
+    "cat": "Capsules",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 88,
+      "MedGo": 95,
+      "WellCare Pharmacy": 84,
+      "QuickDose": 91
+    }
+  },
+  {
+    "name": "Cetrizen 10",
+    "salt": "Cetirizine 10mg",
+    "cat": "Tablets",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 22,
+      "MedGo": 19,
+      "WellCare Pharmacy": 26,
+      "QuickDose": 21
+    }
+  },
+  {
+    "name": "Combizal",
+    "salt": "Ibuprofen + Paracetamol",
+    "cat": "Tablets",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 34,
+      "MedGo": 37,
+      "WellCare Pharmacy": 33,
+      "QuickDose": 36
+    }
+  },
+  {
+    "name": "Gasodex Syrup",
+    "salt": "Antacid suspension",
+    "cat": "Syrups",
+    "pack": "200ml bottle",
+    "prices": {
+      "CityChemist": 98,
+      "MedGo": 105,
+      "WellCare Pharmacy": 92,
+      "QuickDose": 101
+    }
+  },
+  {
+    "name": "Coflex Syrup",
+    "salt": "Cough suppressant",
+    "cat": "Syrups",
+    "pack": "100ml bottle",
+    "prices": {
+      "CityChemist": 76,
+      "MedGo": 81,
+      "WellCare Pharmacy": 74,
+      "QuickDose": 79
+    }
+  },
+  {
+    "name": "Insunova 30/70",
+    "salt": "Human Insulin",
+    "cat": "Injections",
+    "pack": "1 vial, 10ml",
+    "prices": {
+      "CityChemist": 412,
+      "MedGo": 398,
+      "WellCare Pharmacy": 429,
+      "QuickDose": 405
+    }
+  },
+  {
+    "name": "Tetravax",
+    "salt": "Tetanus toxoid",
+    "cat": "Injections",
+    "pack": "1 ampoule",
+    "prices": {
+      "CityChemist": 55,
+      "MedGo": 60,
+      "WellCare Pharmacy": 52,
+      "QuickDose": 58
+    }
+  },
+  {
+    "name": "Rabezol 20",
+    "salt": "Rabeprazole 20mg",
+    "cat": "Capsules",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 112,
+      "MedGo": 107,
+      "WellCare Pharmacy": 119,
+      "QuickDose": 110
+    }
+  },
+  {
+    "name": "Losatrix 50",
+    "salt": "Losartan 50mg",
+    "cat": "Tablets",
+    "pack": "Strip of 15",
+    "prices": {
+      "CityChemist": 83,
+      "MedGo": 79,
+      "WellCare Pharmacy": 89,
+      "QuickDose": 81
+    }
+  },
+  {
+    "name": "Vitacomb Forte",
+    "salt": "Multivitamin",
+    "cat": "Capsules",
+    "pack": "Strip of 20",
+    "prices": {
+      "CityChemist": 47,
+      "MedGo": 44,
+      "WellCare Pharmacy": 51,
+      "QuickDose": 46
+    }
+  },
+  {
+    "name": "Ondemet 4",
+    "salt": "Ondansetron 4mg",
+    "cat": "Tablets",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 38,
+      "MedGo": 41,
+      "WellCare Pharmacy": 35,
+      "QuickDose": 39
+    }
+  },
+  {
+    "name": "Ferronex Syrup",
+    "salt": "Iron + Folic Acid",
+    "cat": "Syrups",
+    "pack": "200ml bottle",
+    "prices": {
+      "CityChemist": 118,
+      "MedGo": 124,
+      "WellCare Pharmacy": 112,
+      "QuickDose": 121
+    }
+  },
+  {
+    "name": "Parafix 650",
+    "salt": "Paracetamol 650mg",
+    "cat": "Tablets",
+    "pack": "Strip of 15",
+    "prices": {
+      "CityChemist": 30,
+      "MedGo": 32,
+      "WellCare Pharmacy": 36,
+      "QuickDose": 29
+    }
+  },
+  {
+    "name": "Azimax 500",
+    "salt": "Azithromycin 500mg",
+    "cat": "Tablets",
+    "pack": "Strip of 3",
+    "prices": {
+      "CityChemist": 105,
+      "MedGo": 110,
+      "WellCare Pharmacy": 102,
+      "QuickDose": 115
+    }
+  },
+  {
+    "name": "Pantolex 40",
+    "salt": "Pantoprazole 40mg",
+    "cat": "Tablets",
+    "pack": "Strip of 15",
+    "prices": {
+      "CityChemist": 128,
+      "MedGo": 131,
+      "WellCare Pharmacy": 135,
+      "QuickDose": 126
+    }
+  },
+  {
+    "name": "Metgluc 500",
+    "salt": "Metformin 500mg",
+    "cat": "Tablets",
+    "pack": "Strip of 20",
+    "prices": {
+      "CityChemist": 58,
+      "MedGo": 61,
+      "WellCare Pharmacy": 66,
+      "QuickDose": 57
+    }
+  },
+  {
+    "name": "Cetzine 10",
+    "salt": "Cetirizine 10mg",
+    "cat": "Tablets",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 18,
+      "MedGo": 20,
+      "WellCare Pharmacy": 24,
+      "QuickDose": 19
+    }
+  },
+  {
+    "name": "Amoxyrid 500",
+    "salt": "Amoxicillin 500mg",
+    "cat": "Capsules",
+    "pack": "Strip of 10",
+    "prices": {
+      "CityChemist": 80,
+      "MedGo": 86,
+      "WellCare Pharmacy": 82,
+      "QuickDose": 84
+    }
+  }
+]
